@@ -20,16 +20,16 @@
 
 @font-face {
     font-family: "Themorecrowsfree";
-    src: url("fonts/Themorecrowsfree.otf") format("truetype");
+    src: url("Themorecrowsfree.otf") format("truetype");
 }
 
 @font-face {
     font-family: "Vixa-Regular";
-    src: url("fonts/Vixa-Regular.otf") format("truetype");
+    src: url("Vixa-Regular.otf") format("truetype");
 }
 @font-face {
     font-family: "BrownedeCalvin-Regular";
-    src: url("fonts/BrownedeCalvin-Regular.otf") format("truetype");
+    src: url("BrownedeCalvin-Regular.otf") format("truetype");
 }
 
 
@@ -617,6 +617,7 @@
 .what-we-do-padding{
   padding:20px;
 }
+
 
 
 
